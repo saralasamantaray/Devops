@@ -1,2 +1,6 @@
 bhubaneswar is the capital of odisha
+<<<<<<< HEAD
 nayagarh
+=======
+khurda
+>>>>>>> origin
