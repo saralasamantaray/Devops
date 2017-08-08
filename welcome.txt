@@ -2,3 +2,4 @@ welcome to India
 Delhi is the capital of india
 bangalore
 editing in feature-1 branch..
+checking conflict
