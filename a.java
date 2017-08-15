@@ -1,5 +1,8 @@
 class a
 {
-	main ()
+	main (String[] args)
+	{
+	}
+
 }
 
