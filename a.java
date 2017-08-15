@@ -1,5 +1,5 @@
 class a
 {
-	main ()
+	main ( string)
 }
 
